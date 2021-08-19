@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668724373262",
+    "project_id": "personx-49f7d",
+    "storage_bucket": "personx-49f7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668724373262:android:b3cdfd3fa359ef5345995f",
+        "android_client_info": {
+          "package_name": "live.edpchinthana.blood_donation_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668724373262-6if1qhmdoc3cuf8sbqfv814650krlgbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7LhN1aLoklTVaRK0CRb5V46AvBtQ2agU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668724373262-6if1qhmdoc3cuf8sbqfv814650krlgbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
